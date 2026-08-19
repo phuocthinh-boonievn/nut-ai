@@ -41,7 +41,7 @@ and instantly. No subscription, no paywall, no account, no server.
 Photo calorie trackers converged on a bad pattern: show one confident number, hide the uncertainty, and
 paywall the correction. The number is a guess — portion estimation alone carries 26–37%+ MAPE across
 every published model — and presenting a guess as a fact is the actual product failure.
-
+I'm trying to reconfigure around the Vietnamese foods & diet - especially in HCM City food stores
 Nut AI is built around one rule:
 
 > **The inference model never owns a number the user sees.**
