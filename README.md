@@ -1,4 +1,4 @@
-# Nut AI
+# My AI Powered Calorie Tracked - Idea and source clone from Nut AI
 
 An open-source AI photo calorie tracker that never shows a number it cannot justify.
 
