@@ -15,7 +15,7 @@ and instantly. No subscription, no paywall, no account, no server.
 
 - **Photo scans** with your own AI key: the model identifies components (a burger comes back as
   patty, bun, and toppings — never one blob), the deterministic engine does every number, and each
-  row shows its uncertainty band and where its data came from.
+  row shows its uncertainty band and where its data came from - Powered by React Native Vision Camera(https://visioncamera.margelo.com/)
 - **Four camera modes** — food photo, **barcode** (bundled-database hits cost nothing and never
   touch a model), **nutrition label** (transcribes the printed panel, refuses to guess a missing
   serving weight), and **receipt** (reads the line items, then fetches each item's published
